@@ -7,3 +7,5 @@ Professor: Walison Cavalcanti Moreira
 Curso: Sistemas de Informação
 
 Aluna: Bruna Carneiro
+
+## Calculadora para Churrasco
